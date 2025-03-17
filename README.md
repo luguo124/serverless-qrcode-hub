@@ -11,24 +11,6 @@
 - 😋 可当短链接生成器
 - ☁️ 无需服务器
 
-## 预览图
-
-- 登录
-  ![preview-login](./images/preview-login.png)
-- 管理后台1：添加普通短链
-  ![preview-admin](./images/preview-admin.png)
-- 管理后台2：添加微信二维码
-  ![preview-admin2](./images/preview-admin2.png)
-- 管理后台3
-  ![preview-admin3](./images/preview-admin3.png)
-- 生成二维码
-  ![preview-qr](./images/preview-qr.png)
-- 管理后台4：编辑
-  ![preview-admin4](./images/preview-admin4.png)
-- 微信识别
-  ![preview-wechat](./images/preview-wechat.jpg)
-- 短链跳转就不展示了，是直接跳转的
-
 ## 使用步骤
 
 - Fork 仓库
